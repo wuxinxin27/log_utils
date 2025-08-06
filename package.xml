@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>log_utils</name>
+  <version>0.0.1</version>
+  <description>Logging utilities for ROS applications</description>
+
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+
+  <export>
+  </export>
+</package>
